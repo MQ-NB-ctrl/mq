@@ -1,0 +1,19 @@
+{
+    "app": "cloudtest",
+    "name": "云端测试",
+    "maintenance": false,
+    "maintenance_msg": "",
+    "version": "1.0.1",
+    "file": "1.0.1_probe.exe",
+    "target": "probe.exe",
+    "size": 95541,
+    "sha256": "4b0fec7c87e54de860a6671a393ba96e92fd448c3ab12fd019d353ae6695c676",
+    "note": "云下发自动化测试",
+    "published": "2026-10-29 06:24:28",
+    "urls": [
+        "https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/cloudtest/1.0.1_probe.exe",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/cloudtest/1.0.1_probe.exe",
+        "https://gcore.jsdelivr.net/gh/MQ-NB-ctrl/mq@main/cloudtest/1.0.1_probe.exe",
+        "https://ghproxy.net/https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/cloudtest/1.0.1_probe.exe"
+    ]
+}
