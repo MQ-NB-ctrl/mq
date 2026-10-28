@@ -1,0 +1,19 @@
+{
+    "app": "yuyu",
+    "name": "念初心",
+    "maintenance": false,
+    "maintenance_msg": "",
+    "version": "1.0.0",
+    "file": "1.0.0__________.dll",
+    "target": "念初心.dll",
+    "size": 1094144,
+    "sha256": "710090a6cbb836239bc3e3d5967bb1c425e09d78acde456d0f2db764e4b85d79",
+    "note": "",
+    "published": "2026-10-28 13:25:52",
+    "urls": [
+        "https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/yuyu/1.0.0__________.dll",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/yuyu/1.0.0__________.dll",
+        "https://gcore.jsdelivr.net/gh/MQ-NB-ctrl/mq@main/yuyu/1.0.0__________.dll",
+        "https://ghproxy.net/https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/yuyu/1.0.0__________.dll"
+    ]
+}
