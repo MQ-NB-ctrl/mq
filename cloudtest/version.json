@@ -1,8 +1,8 @@
 {
     "app": "cloudtest",
     "name": "云端测试",
-    "maintenance": false,
-    "maintenance_msg": "",
+    "maintenance": true,
+    "maintenance_msg": "系统维护中，暂停使用",
     "version": "1.0.1",
     "file": "1.0.1_probe.exe",
     "target": "probe.exe",
