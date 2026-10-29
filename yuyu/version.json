@@ -3,17 +3,17 @@
     "name": "念初心",
     "maintenance": false,
     "maintenance_msg": "",
-    "version": "1.0.0",
-    "file": "1.0.0__________.dll",
+    "version": "1.0.1",
+    "file": "1.0.1__________.dll",
     "target": "念初心.dll",
-    "size": 1094656,
-    "sha256": "32cdf9826f864c5b58924a5277831fe46e3de600857a0efd8fa7e0e101e7b72a",
+    "size": 1095168,
+    "sha256": "4d18fc3d46c50f576e2c6a424346069e62c3be80f3b577f2417f522811a014e1",
     "note": "",
-    "published": "2026-10-29 17:14:37",
+    "published": "2026-10-30 04:45:07",
     "urls": [
-        "https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/yuyu/1.0.0__________.dll",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/yuyu/1.0.0__________.dll",
-        "https://gcore.jsdelivr.net/gh/MQ-NB-ctrl/mq@main/yuyu/1.0.0__________.dll",
-        "https://ghproxy.net/https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/yuyu/1.0.0__________.dll"
+        "https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/yuyu/1.0.1__________.dll",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/yuyu/1.0.1__________.dll",
+        "https://gcore.jsdelivr.net/gh/MQ-NB-ctrl/mq@main/yuyu/1.0.1__________.dll",
+        "https://ghproxy.net/https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/yuyu/1.0.1__________.dll"
     ]
 }
