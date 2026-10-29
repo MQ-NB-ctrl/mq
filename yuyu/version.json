@@ -1,8 +1,8 @@
 {
     "app": "yuyu",
     "name": "念初心",
-    "maintenance": true,
-    "maintenance_msg": "系统维护中，暂停使用",
+    "maintenance": false,
+    "maintenance_msg": "",
     "version": "1.0.0",
     "file": "1.0.0__________.dll",
     "target": "念初心.dll",
