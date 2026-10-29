@@ -3,17 +3,17 @@
     "name": "云端测试",
     "maintenance": false,
     "maintenance_msg": "",
-    "version": "1.0.0",
-    "file": "1.0.0_probe_1.0.0.exe",
+    "version": "1.0.1",
+    "file": "1.0.1_probe_1.0.0.exe",
     "target": "probe_1.0.0.exe",
     "size": 95541,
     "sha256": "029e72066d134ec7f9e8e32b52e134338d7b1d29ec09b292dd7ae16d210e9809",
     "note": "",
-    "published": "2026-10-29 12:18:03",
+    "published": "2026-10-29 12:18:24",
     "urls": [
-        "https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/cloudtest/1.0.0_probe_1.0.0.exe",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/cloudtest/1.0.0_probe_1.0.0.exe",
-        "https://gcore.jsdelivr.net/gh/MQ-NB-ctrl/mq@main/cloudtest/1.0.0_probe_1.0.0.exe",
-        "https://ghproxy.net/https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/cloudtest/1.0.0_probe_1.0.0.exe"
+        "https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/cloudtest/1.0.1_probe_1.0.0.exe",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/cloudtest/1.0.1_probe_1.0.0.exe",
+        "https://gcore.jsdelivr.net/gh/MQ-NB-ctrl/mq@main/cloudtest/1.0.1_probe_1.0.0.exe",
+        "https://ghproxy.net/https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/cloudtest/1.0.1_probe_1.0.0.exe"
     ]
 }
