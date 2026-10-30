@@ -1,8 +1,8 @@
 {
     "app": "mq",
     "name": "木琴",
-    "maintenance": true,
-    "maintenance_msg": "木琴跑路了",
+    "maintenance": false,
+    "maintenance_msg": "",
     "version": "1.0.0",
     "file": "1.0.0_MQ.dll",
     "target": "MQ.dll",
