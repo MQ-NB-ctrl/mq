@@ -6,10 +6,10 @@
     "version": "1.0.1",
     "file": "1.0.1_MQ.dll",
     "target": "MQ.dll",
-    "size": 2643968,
-    "sha256": "ea320cdb8eb5116599bec85805f3110c2f1f87c03dd7b0aa8e04f06e15b1d7ac",
+    "size": 2643456,
+    "sha256": "5f540787123935bfe12eaabb7c521abf16bb66a4462164ece9ce4d424680847f",
     "note": "",
-    "published": "2026-10-30 12:10:59",
+    "published": "2026-10-30 12:15:44",
     "urls": [
         "https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/mq/1.0.1_MQ.dll",
         "https://gh-proxy.com/https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/mq/1.0.1_MQ.dll",
