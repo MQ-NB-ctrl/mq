@@ -3,17 +3,17 @@
     "name": "木琴",
     "maintenance": false,
     "maintenance_msg": "",
-    "version": "1.0.2",
-    "file": "1.0.2_MQ.dll",
+    "version": "1.0.3",
+    "file": "1.0.3_MQ.dll",
     "target": "MQ.dll",
     "size": 2650624,
-    "sha256": "a9dd7d5c7c5578081bdf3c01f5c73c458a9980e6b8048e33c9836394971af91d",
+    "sha256": "b523448409cd31b0b8a15c99cee59c3a0ad1db05cfc882aad6a0390e61067699",
     "note": "",
-    "published": "2026-10-30 12:20:15",
+    "published": "2026-10-30 12:26:48",
     "urls": [
-        "https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/mq/1.0.2_MQ.dll",
-        "https://gh-proxy.com/https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/mq/1.0.2_MQ.dll",
-        "https://gcore.jsdelivr.net/gh/MQ-NB-ctrl/mq@main/mq/1.0.2_MQ.dll",
-        "https://ghproxy.net/https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/mq/1.0.2_MQ.dll"
+        "https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/mq/1.0.3_MQ.dll",
+        "https://gh-proxy.com/https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/mq/1.0.3_MQ.dll",
+        "https://gcore.jsdelivr.net/gh/MQ-NB-ctrl/mq@main/mq/1.0.3_MQ.dll",
+        "https://ghproxy.net/https://raw.githubusercontent.com/MQ-NB-ctrl/mq/main/mq/1.0.3_MQ.dll"
     ]
 }
